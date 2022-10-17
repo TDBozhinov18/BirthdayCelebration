@@ -1,0 +1,8 @@
+public interface Identifiable {
+    public String getIf();
+}
+
+
+public interface Birthable {
+    public String getBirthable();
+}
